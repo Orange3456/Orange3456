@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Praveenkumar Saminathan 
+- 👀 I’m interested in Learning Python for GIS
+- 🌱 I’m currently Pursuing Masters in Geo Informatics in Politecnico Di Milano 
